@@ -29,7 +29,7 @@ http://www.pdfmachine.com/genp/pdfmachine-command-line-tools.html
 
 
 
-#pdfMachineStamp
+# pdfMachineStamp
 
 A Windows command line tool for applying a text stamp or watermark to a PDF file.
 
@@ -58,7 +58,7 @@ A Windows command line tool for applying a text stamp or watermark to a PDF file
 
 
 
-#pdfMachineSign
+# pdfMachineSign
 
 A Windows command line tool for digitally signing a PDF file using a certificate in the Windows certificate store.
 
